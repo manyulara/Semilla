@@ -1,0 +1,176 @@
+\documentclass[10pt,letterpaper]{report}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\newenvironment{myepigraph}
+  {\par\hfill\itshape
+   \begin{tabular}{@{}r@{\hspace{2em}}}} % 2em from the right margin
+  {\end{tabular}\par\medskip}
+\usepackage[left=2.2cm,right=2.2cm,top=2cm,bottom=2cm]{geometry}
+\author{Z. López, M. Lara, E. Ocampo}
+\title{Proyecto Educativo Nelson Mandela. Resumen}
+\begin{document}
+
+\maketitle
+
+
+\chapter{Introducción}
+
+\begin{myepigraph}A fundamental concern for others\\
+in our individual and community lives\\
+would go a long way in making the world the better place\\
+we so passionately dreamt of.\\
+\\
+Nelson Mandela
+\end{myepigraph}
+
+\section{Presentación}
+
+Somos Zitlali López, Manuel Lara y Eduardo Ocampo. Nuestra formación nos ha permitido reconocer el área en la cual podemos aportar de la forma más eficiente a la sociedad, la educación. Identificamos en la educación básica un momento clave para el desarrollo ulterior de ciudadanos integrales en el cual podemos incursionar con ideas novedosas, profesionales y basadas en el más profundo deseo de mejorar la situación actual de la sociedad.
+
+Planteamos un proyecto educativo que consiste de una Escuela y un Centro de Investigación Pedagógica (CIP) que funcionarán en la práctica como una misma entidad, aunque legalmente sea pertinente la separación en dos figuras jurídicas, S.C y A.C. respectivamente. Dicho proyecto estará cimentado en tres ejes fundamentales: la felicidad basada en la formación integral, vivir la democracia participativa y promover y adoptar una actitud de exploración hacia el conocimiento; esto último implica el reconocimiento del carácter dinámico y pragmático del mismo. El Centro de Investigación Pedagógica se encargará de generar propuestas educativas concretas (actividades, material didáctico, etc.) siempre congruentes con los ejes de la escuela, actuales, inovadoras y también dirigidas a formar comunidad y fortalecer a las familias de sus integrantes. En la escuela se ejecutarán las activiades propuestas dentro de un marco activo, se reportará la efectividad y se elaborarán sugerencias para la mejora de dichas propuestas.
+\vspace{1cm}
+\begin{myepigraph}No esperes a hacer de tu hijo un buen hombre,\\
+hazlo un buen niño.\\Proverbio
+\end{myepigraph}
+
+\section{El proyecto}
+
+\subsection{Objetivos}
+Son objetivos del proyecto:
+\begin{enumerate}
+\item Procurar y promover la felicidad de sus integrantes.
+\item Proveer de todos los elementos para propiciar el correcto desarrollo emocional de los estudiantes.
+\item Fomentar la actitud de exploración. En el caso de los estudiantes, esto significa que proveeremos de todas las herramientas que sean necesarias para que el alumno se sienta motivado para conocer el mundo que le rodea desde distintas perspectivas. Para los profesores, esto significa una actitud de búsqueda constante de material para relacionar los elementos del temario con el contexto de sus estudiantes. Para los integrantes del CIP, la actualización permanente del temario, estar al tanto de avances en educación y la capacitación constante de los profesores.
+\item Impulsar la disciplina en sus integrantes, entendida ésta como el conjunto de métodos que permitan al individuo concretar sus metas idealizadas de la forma más eficiente posible, o en defecto, a adaptarse para proponer nuevas metas que, bajo la perspectiva de la experiencia adquirida, sean factibles y compatibles con el espíritu original que motivó la empresa.
+\item La creación de un ambiente democrático, donde todos participen en la construcción de un estado de bienestar general.
+\item Buscar la retribución económica justa por las labores realizadas.
+\end{enumerate}
+
+\subsection{Centro de Investigación Pedagógica}
+El Centro de Investigación Pedagógica (CIP) es una de las propuestas más inovadoras del proyecto, lo diferencian de prácticamente cualquier institución educativa a nivel básico. En el CIP se realizarán investigaciones en educación de calidad internacional y se socializarán los resultados que deriven de ellas a través de la página del proyecto, de publicaciones en revistas arbitradas del área, en congresos que organizará el mismo Centro y congresos externos internacionales y nacionales, así como en un Seminario Permanente del cual serán partícipes los miembros del CIP y los profesores de la Escuela. Realizará además Talleres y Cursos para Profesores interesados. Estamos conscientes de que educar con calidad requiere partir de la experiencia, lo que implica que el entorno dicta los métodos con los que se implementará el temario oficial. Lo anterior no sólo motivará el aprendizaje y favorecerá la trascendencia de los conocimientos adquiridos, sino que representa una herramienta para generar comunidad y fomentar la unión familiar al incentivar intereses comunes entre hijos y padres.\footnote{Las brechas generacionales se agrandan cuando no existen intereses en común y creemos que esto es un elemento importante en la desintegración de las familias.} Los integrantes del CIP deberán, de forma obligatoria, impartir talleres a los estudiantes de la Escuela para conocer de primera mano sus intereses y su situación emocional y académica.
+\subsection{Seminario Permanentce}
+La conexión fundamental entre el CIP y la Escuela será el Seminario Permanente. Éste será un espacio en el cual se discutirán los métodos de enseñanza que se aplicarán en el salón de clases y aquellas experiencias que fueron positivas en la transmisión del conocimiento y/o en el cumpliimiento de los objetivos del proyecto. Es en el Seminario donde el CIP dará a conocer las propuestas que resulten de su trabajo y el material generado y donde se capacitará a los profesores para que puedan desempeñarse de la mejor manera posible en sus aulas al implementarlos. También en este seminario los profesores darán testimonio del efecto que tienen las implementaciones previamente mencionadas en el salón de clases, se enlistarán las inquietudes que aparecieron frecuentemente por parte de los alumnos y de los profesores para que el CIP pueda mejorar sus propuestas y/o la capacitación.
+
+\subsection{La Escuela}
+Iniciaremos la construcción de una escuela basada en el modelo activo y fundamentada en ideas de pedagogos que promueven los valores que nos identifican y que se plasman en la presentación. La escuela tendrá como principal activo  a sus profesores, quienes además formarán parte del Seminario Permanente de forma obligatoria, de tal forma que su trabajo será de tiempo completo.
+
+Se le dará importancia primordial a la estabilidad emocional de los estudiantes, pues es parte del desarrollo integral y necesario para la el desarrollo de cualquier otra faceta del ser humano.
+
+\subsubsection{Primaria}
+En la escuela primaria se realizarán asambleas semanalmente en los salones y mensualmente se convocará a una asamblea de toda la escuela, como lo sugiere el método de Freinet. En el mismo tenor, se llevará un diario por grupo donde se relate lo acontecido en el grupo.
+
+\chapter{Desarrollo de las ideas fundamentales del proyecto}
+
+\begin{myepigraph}
+Chi va piano, va sano e lontano.\\
+Proverbio
+\end{myepigraph}
+
+\section{Comentarios generales sobre los conceptos que guiarán la toma de decisiones en nuestro proyecto}
+\section{Conceptos fundamentales}
+	\begin{enumerate}
+
+	\item {\bf Comunidad}	
+La comunidad existe sólo cuando un conjunto de individuos, independientemente de su número, comparte problemas e intereses.
+	
+	\item {\bf Problema}
+	Un problema es un hecho que te obliga o te invita a pensar en alternativas para 
+	
+	\item {\bf Democracia}
+		\begin{enumerate}[label*=\arabic*.]
+		\item {\bf Sobre la definición}
+		
+			Elementos necesarios en una democracia
+			\begin{enumerate}[label*=\arabic*.]
+			\item La democracia se propone en una comunidad cuyos individuos tienen interés por los problemas comunes y convencimiento de que se puede encontrar una solución.
+			\item Se debe trabajar colectivamente en aproximarse a la solución de los problemas comunes.
+			\item Deben encontrarse intereses comunes y establecerse, con base en ellos, objetivos comunes.
+			\item Debe existir el interés por generar acuerdos que contemplen la visión de todos los integrantes de la comunidad. En caso de no existir, se debe fomentar el debate sano, entendiendo éste como uno donde se privilegie mejorar los argumentos de las posturas por encima de ``ganar'' el debate. también se deberá inculcar la disposición por ahondar en los intereses de los demás.
+			\item Debe existir un ambiente de convivencia, donde se separen los ataques y elogios personales de la argumentación. Se deben poder identificar las falacias argumentativas y quitarles peso en la discusión.
+			\item Un modo de proponer donde prevaleza, sobre la idea, los métodos. Sin duda es deseable que quien proponga dirija y asegure el desarrollo de sus propuestas.
+			\item Disciplina. Sin esta característica, no se pueden concretar las ideas. Es fundamental. No debe tener la connotación de militarización, si no entenderse como un conjunto de hábitos que permiten a una persona realizar los proyectos que se proponga.
+			\end{enumerate}
+		Propuesta de definición: La democracia es un proceso de gobierno que se puede desarrollar en cualquier tipo de comunidad para buscar el bien común. Se basa en la capacidad de sus miembros de escuchar y ser escuchados, así como de proponer y actuar -de forma prudente y responsable- en torno a los problemas e intereses que les conciernen.			
+		\item Sobre el desarrollo de esta característica en los distintos sectores del proyecto (actividades, problemas y notas)
+			\begin{enumerate}[label*=\arabic*.]
+			\item Estudiantes: 
+		\begin{itemize}
+		\item Asambleas. Se realizarán asambleas grupales y de toda la escuela. En las grupales, se resolverán problemas que surjan en el curso de las sesiones y que no puedan ser resueltos de forma inmediata, o bien que sean recurrentes. Cuando estos no puedan resolverse aún en la asamblea grupal o bien, cuando se trate de un asunto que concierne a gente fuera del grupo, se llevará el asunto a la asamblea de la escuela. En la asamblea general se tratarán entonces estos casos y también los maestros, la dirección y los miembros del CIP buscarán introducir dilemas para que sean resueltos por los estudiantes, como en qué invertir dinero en la escuela, o bien, cuestiones de interacción de la escuela con otras escuelas o comunidades.
+		\item 
+		\item Consultas. Los estudiantes serán consultados para concer su opinión respecto a ciertos aspectos referentes al crecimiento de la escuela; por supuesto, esta opinión será considerada con un fuerte peso para la toma de la decisión.
+		\item Gestión de proyectos. Mensualmente, se les dará un prespuesto determinado a cada grupo para que definan algún proyecto y gasten dicho presupuesto.
+\end{itemize}					
+
+			\item Profesores: Dentro del 
+			\item Intendentes: Si es interés de ellos, podrán integrarse a cualquier actividad de la escuela.
+			\item Administrativos
+			\item Miembros del CIP
+			\end{enumerate}
+		\item Sobre la forma de publicitar esta característica
+		\end{enumerate}
+	\item Felicidad a través de la formación integral
+		\begin{enumerate}[label*=\arabic*.]
+		\item Sobre la definición
+		\item Sobre el desarrollo de esta característica en los distintos sectores del proyecto (actividades, problemas y notas)
+			\begin{enumerate}[label*=\arabic*.]
+			\item Estudiantes
+			\item Profesores
+			\item Intendentes
+			\item Administrativos
+			\item Miembros del CIP
+			\end{enumerate}
+		\item Sobre la forma de publicitar esta característica
+		\end{enumerate}
+	\item Actitud de exploración
+	
+		\begin{enumerate}[label*=\arabic*.]
+		\item Consideraciones sobre las formas de conocer:
+		El acercamiento hacia el conocimiento debe hacerse reconociendo que los seres humanos no enfrentamos algo nuevo con un completo desconocimiento sobre las cosas; los nuevos conceptos se construyen con base en lo que uno ya sabe. Podría suceder que las nuevas ideas no contengan significado para algún individuo, pero para dotarlas de significado el que instruye deberá partir de las estructuras previas en el individuo.
+		
+		\item Sobre el desarrollo de esta característica en los distintos sectores del proyecto (actividades, problemas y notas)
+			\begin{enumerate}[label*=\arabic*.]
+			\item Estudiantes: Los porqués tan típicos en los niños de edades alrededor de 3 años, deben ser redirigidos para que el niño pueda formular posibles respuestas. No se debe desalentar el espíritu de búsqueda. Al darse cuenta un individuo de que es capaz de generar repsuestas, tendrá seguridad para ir planteando sus hipótesis y generar modelos del mundo.
+			\item Profesores
+			\item Intendentes
+			\item Administrativos
+			\item Miembros del CIP
+			\end{enumerate}
+		\item Sobre la forma de publicitar esta característica
+		\end{enumerate}
+		
+	\item Disciplina
+		
+		\begin{enumerate}[label*=\arabic*.]
+		\item Sobre la definición
+		\item Sobre el desarrollo de esta característica en los distintos sectores del proyecto (actividades, problemas y notas)
+			\begin{enumerate}[label*=\arabic*.]
+			\item Estudiantes
+			\item Profesores
+			\item Intendentes
+			\item Administrativos
+			\item Miembros del CIP
+			\end{enumerate}
+		\item Sobre la forma de publicitar esta característica
+		\end{enumerate}
+	\end{enumerate}
+
+
+\chapter{Modelo de negocio}
+
+\section{Ejercicio Mensual Financiero Primaria}
+
+\subsection{Gastos}
+
+\subsubsection{Gastos corrientes no escalables}
+
+\subsubsection{Gastos corrientes escalables}
+
+\subsection{Ingresos por salón}
+
+\subsection{Balance}
+
+\chapter{Colaboraciones}
+
+\end{document}
