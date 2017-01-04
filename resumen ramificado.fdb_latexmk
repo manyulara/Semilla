@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex resumen ramificado"] 1483459053 "resumen ramificado.aux" "resumen ramificado.bbl" "resumen ramificado" 1483459125
+["bibtex resumen ramificado"] 1483459053 "resumen ramificado.aux" "resumen ramificado.bbl" "resumen ramificado" 1483542286
   "/Users/e/Dropbox/bibliography.bib" 1466791226 24964 88118be4b03788e326eded2d4cb5a69c ""
   "/usr/local/texlive/2016/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "resumen ramificado.aux" 1483459125 7097 c172c84c694f80b3204fb8217528e644 ""
+  "resumen ramificado.aux" 1483542286 7097 c172c84c694f80b3204fb8217528e644 ""
   "resumen ramificado.bcf" 0 -1 0 ""
   (generated)
   "resumen ramificado.bbl"
   "resumen ramificado.blg"
-["pdflatex"] 1483459124 "resumen ramificado.tex" "resumen ramificado.pdf" "resumen ramificado" 1483459125
+["pdflatex"] 1483542285 "resumen ramificado.tex" "resumen ramificado.pdf" "resumen ramificado" 1483542286
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -83,14 +83,14 @@
   "enumitem.sty" 1462646413 42665 cfaf86c6d8e45bef27058443cc8bca48 ""
   "mapatequis.pdf" 1463073113 554566 67bea7c5d4f35da2e33707d20df728dd ""
   "mensual10anos.pdf" 1463075382 48929 db25b03985c7b153f49b7cbfeaf2814f ""
-  "resumen ramificado.aux" 1483459125 7097 c172c84c694f80b3204fb8217528e644 ""
+  "resumen ramificado.aux" 1483542286 7097 c172c84c694f80b3204fb8217528e644 ""
   "resumen ramificado.bbl" 1483459053 1077 6dfe4170345ad81168f8e77f2a2f1f1c "bibtex resumen ramificado"
-  "resumen ramificado.out" 1483459125 2640 188522ed438d74b5fbe3957a4b1f0318 ""
-  "resumen ramificado.tex" 1483459124 54618 ac67234b8af80688fffd7e244b70d9e9 ""
-  "resumen ramificado.toc" 1483459125 3693 71ebb4864b9539c6411f0c8e7859179d ""
+  "resumen ramificado.out" 1483542286 2640 188522ed438d74b5fbe3957a4b1f0318 ""
+  "resumen ramificado.tex" 1483542285 55010 88d17138020cd9bffb93daab6aa96ba2 ""
+  "resumen ramificado.toc" 1483542286 3693 71ebb4864b9539c6411f0c8e7859179d ""
   (generated)
-  "resumen ramificado.aux"
-  "resumen ramificado.toc"
-  "resumen ramificado.pdf"
-  "resumen ramificado.out"
   "resumen ramificado.log"
+  "resumen ramificado.out"
+  "resumen ramificado.aux"
+  "resumen ramificado.pdf"
+  "resumen ramificado.toc"
