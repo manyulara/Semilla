@@ -1,0 +1,45 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Presentaci\IeC {\'o}n}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}El proyecto}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Objetivos}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Centro de Investigaci\IeC {\'o}n Pedag\IeC {\'o}gica}{3}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Seminario Permanente}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}La Escuela}{3}{subsection.1.2.4}
+\contentsline {chapter}{\numberline {2}Valores del Proyecto}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Democracia}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Felicidad (a trav\IeC {\'e}s de la formaci\IeC {\'o}n integral)}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Actitud de exploraci\IeC {\'o}n}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}Disciplina}{9}{section.2.4}
+\contentsline {chapter}{\numberline {3}Modelo Educativo}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Las actividades}{11}{section.3.1}
+\contentsline {subsubsection}{Madre Tierra}{11}{section*.16}
+\contentsline {subsubsection}{Comunicaci\IeC {\'o}n}{11}{section*.17}
+\contentsline {subsubsection}{Artes y Oficios}{12}{section*.18}
+\contentsline {subsubsection}{Experimentaci\IeC {\'o}n}{12}{section*.19}
+\contentsline {subsubsection}{Socioemocional}{12}{section*.20}
+\contentsline {subsection}{\numberline {3.1.1}Nuestro Maestros:}{13}{subsection.3.1.1}
+\contentsline {chapter}{\numberline {4}Socializaci\IeC {\'o}n}{14}{chapter.4}
+\contentsline {chapter}{\numberline {5}Plan de Negocios}{15}{chapter.5}
+\contentsline {section}{\numberline {5.1}Planeaci\IeC {\'o}n Estrat\IeC {\'e}gica}{15}{section.5.1}
+\contentsline {section}{\numberline {5.2}Descripci\IeC {\'o}n del Negocio}{15}{section.5.2}
+\contentsline {section}{\numberline {5.3}An\IeC {\'a}lisis del Mercado}{16}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Situaci\IeC {\'o}n de Tequisquiapan}{16}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Competencia}{16}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Producto, Precio, Plaza y Promoci\IeC {\'o}n}{17}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Producto}{17}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Precio}{17}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Plaza}{17}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Promoci\IeC {\'o}n}{18}{subsection.5.4.4}
+\contentsline {chapter}{\numberline {6}Modelo de negocio}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introducci\IeC {\'o}n}{19}{section.6.1}
+\contentsline {section}{\numberline {6.2}Sobre el trabajo en Semilla}{19}{section.6.2}
+\contentsline {section}{\numberline {6.3}Sobre las Colegiaturas y las Becas}{19}{section.6.3}
+\contentsline {section}{\numberline {6.4}Factibilidad del Modelo de Negocios: Ejercicio Anual Financiero Primaria}{20}{section.6.4}
+\contentsline {section}{\numberline {6.5}Crecimiento y Punto de Equilibrio}{20}{section.6.5}
+\contentsline {section}{\numberline {6.6}Inversi\IeC {\'o}n y ROI}{20}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Escenario Renta}{20}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}Escenario Compra}{21}{subsection.6.6.2}
+\contentsline {chapter}{\numberline {7}Anexos}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}Sobre la forma de publicitar}{23}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Democracia}{23}{subsection.7.1.1}
